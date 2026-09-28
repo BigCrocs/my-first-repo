@@ -27,7 +27,16 @@ ___
 | **Git & GitHub** | В процессе | — |
 ___
 ## Цели и план развития
--
+### C#
+- [X] Установить Visual Studio.
+- [ ] Изучить основы синтаксиса и применить на практитке.
+- [ ] Сделать свой первый проект.
+
+### Bash
+- [X] Изучить базовые команды.
+- [X] Научиться работать с файлами и правами.
+- [ ] Написать первые скрипты.
+- [ ] Автоматизировать простую задачу.
 ___
 ## Любимый рабочий сетап и шорткаты
 Всё ещё впереди...
@@ -38,8 +47,11 @@ ___
 ## Контакты
 
 **Почта**: [agamirzova@mail.ru](mailto:agamirzova@mail.ru)
+
 **Telegram:** [@bigcrocs](https://t.me/bigcrocs)
+
 [![Мой GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BigCrocs)
+
 [![Написать письмо](https://img.shields.io/badge/Email-db2777?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agamirzova@mail.ru)
 ___
 [^1]: Git — распределенная система управления версиями, позволяющая отслеживать историю изменений в файлах и координировать работу команды.
